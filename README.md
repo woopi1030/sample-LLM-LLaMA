@@ -54,7 +54,7 @@ CPU-only 환경에서 효율적으로 실행하기 위해 **양자화된 GGUF �
 
 #### 📥 모델 다운로드 링크
 
-- Hugging Face: [TheBloke/Meta-Llama-3-8B-Instruct-GGUF](https://huggingface.co/models?sort=trending&search=Meta-Llama-3-8B-Instruct)
+- Hugging Face: [QuantFactory/Meta-Llama-3-8B-Instruct-GGUF](https://huggingface.co/models?sort=trending&search=Meta-Llama-3-8B-Instruct)
 
 #### 📌 추천 모델 파일 (4bit 양자화)
 
